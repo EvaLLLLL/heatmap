@@ -1,5 +1,7 @@
 # 热力图
 
+点击预览：https://evalllll.github.io/heatmap/index.html
+
 实现思路如下：
 
     1. 加地图：使用百度地图 API 初始化地图
